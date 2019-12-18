@@ -1,0 +1,5 @@
+config:
+  hello: hello Im prod
+spring:
+  application:
+    name: spring-cloud-config-prod

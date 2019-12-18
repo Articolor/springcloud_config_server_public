@@ -1,0 +1,5 @@
+config:
+  hello: hello Im test
+spring:
+  application:
+    name: spring-cloud-config-test
